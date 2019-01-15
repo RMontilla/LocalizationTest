@@ -1,0 +1,67 @@
+{  
+   "languages":[  
+      {  
+         "languageName":"en",
+         "values":[  
+            {  
+               "key":"helloWorld",
+               "value":"Hello World"
+            },
+            {  
+               "key":"buy",
+               "value":"Buy"
+            },
+            {  
+               "key":"reload",
+               "value":"Reload"
+            },
+            {  
+               "key":"changeLanguage",
+               "value":"Change Language"
+            }
+         ]
+      },
+      {  
+         "languageName":"es",
+         "values":[  
+            {  
+               "key":"helloWorld",
+               "value":"Hola Mundo"
+            },
+            {  
+               "key":"buy",
+               "value":"Comprar"
+            },
+            {  
+               "key":"reload",
+               "value":"Recargar"
+            },
+            {  
+               "key":"changeLanguage",
+               "value":"Cambiar Lenguaje"
+            }
+         ]
+      },
+      {  
+         "languageName":"ja",
+         "values":[  
+            {  
+               "key":"helloWorld",
+               "value":"こんにちは世界"
+            },
+            {  
+               "key":"buy",
+               "value":"買う"
+            },
+            {  
+               "key":"reload",
+               "value":"リロード"
+            },
+            {  
+               "key":"changeLanguage",
+               "value":"言語を変える"
+            }
+         ]
+      }
+   ]
+}
